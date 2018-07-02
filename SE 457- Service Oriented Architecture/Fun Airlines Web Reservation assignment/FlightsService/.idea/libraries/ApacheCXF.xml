@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ApacheCXF">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/SE 457/homework/hw4/apache-cxf-3.2.4/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/SE 457/homework/hw4/apache-cxf-3.2.4/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/SE 457/homework/hw4/apache-cxf-3.2.4/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/SE 457/homework/hw4/apache-cxf-3.2.4/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

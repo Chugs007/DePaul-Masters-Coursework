@@ -1,0 +1,4 @@
+funairlines\reservation\FlightService\FlightsServiceStartup.class
+funairlines\reservation\Flight\Flight.class
+funairlines\reservation\Flight\FlightStatus.class
+funairlines\reservation\FlightService\FlightsService.class
